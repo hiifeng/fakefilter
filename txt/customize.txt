@@ -8,3 +8,5 @@ pissmail.com
 swismail.com
 tutanota.com
 usdtbeta.com
+zohomail.com
+zohomail.eu
