@@ -5,6 +5,7 @@ eu.org
 firemail.de
 freemail.hu
 gmx.com
+ggff.net
 mail.co.uk
 mail.uk
 murena.io
@@ -14,6 +15,7 @@ swismail.com
 tnbeta.com
 tutamail.com
 tutanota.com
+us.kg
 usdtbeta.com
 zohomail.com
 zohomail.eu
